@@ -1,6 +1,6 @@
 ### Hi, I'm Cesar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Website](https://img.shields.io/badge/Founder%20%40%20JUSTGameStudios.net-Developer-blueviolet?style=flat-square)](https://JUSTGameStudios.net)
-## Your short description
+## A Game & Tech enthusiast with a passion for game development!
 - 🔭 I’m currently working on - Making independent games
 - 🌱 I’m currently learning - Unity and Gamemaker Studio 2 engines
 - 👯 I’m looking to collaborate with - Other artists and video game programmers
